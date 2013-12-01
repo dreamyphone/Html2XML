@@ -1,0 +1,148 @@
+<div id="wrapper">
+  <div id="header">
+    <div class="logo">
+      <a href="http://www.neu.edu.cn">
+        <img src="images/logo.jpg" alt="东北大学" border="0" />
+      </a>
+    </div>
+    <div>
+      <div class="nav">
+        <a href="http://english.neu.edu.cn" target="_self">English Version</a>
+      </div>
+      <div class="menu">
+<script src="images/menudata.js" type="text/javascript">
+        </script>
+      </div>
+    </div>
+  </div>
+  <div id="banner">
+  <img src="images/banner.jpg" /> 
+  <div class="bigimg">
+<script type="text/javascript" language="javascript">
+                                
+                                if(focus_width==undefined) var focus_width=300;
+                                if(focus_height==undefined) var focus_height=257;
+                                if(text_height==undefined) var text_height=0;
+                                var xsImgs = new
+Array("images/jpg/bigimg1.jpg","images/jpg/bigimg2.jpg","images/jpg/bigimg3.jpg","images/jpg/bigimg4.jpg","images/jpg/bigimg5.jpg","images/jpg/bigimg6.jpg","images/jpg/bigimg7.jpg","images/jpg/bigimg71.jpg","images/jpg/bigimg8.jpg","images/jpg/bigimg9.jpg","images/jpg/bigimg10.jpg","images/jpg/bigimg11.jpg","images/jpg/bigimg12.jpg","images/jpg/bigimg13.jpg","images/jpg/bigimg14.jpg","images/jpg/bigimg15.jpg","images/jpg/bigimg16.jpg","images/jpg/bigimg17.jpg","images/jpg/bigimg18.jpg","images/jpg/bigimg19.jpg","images/jpg/bigimg20.jpg","images/jpg/bigimg21.jpg","images/jpg/bigimg22.jpg","images/jpg/bigimg23.jpg");
+                                var xsImgLinks = new
+Array("http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn","http://www.neu.edu.cn");
+                                var xsImgTexts = new Array("张学良老校长雕塑","东北大学建筑学馆","校徽雕塑","以老校长张学良的字命名的东北大学汉卿会堂",""一二九"运动，东大学子走在队伍的最前列","温总理与东大学子一同《歌唱祖国》","东软集团","原国家主席江泽民视察东软集团","中国奥运第一人刘长春是东北大学体育系的学生","东北大学采矿学馆","刘长春体育馆","东北大学主楼","校园一角","东北大学信息学馆","校友捐赠纪念雕塑","东北大学信息学馆剪影","东北大学机电学馆","东北大学游泳馆","校园秋色","东北大学80周年校庆（2003年）","校园一角","校园一景","1928年，梁思成与林徽因在东北大学创办中国第一个建筑学系","1928年，梁思成与林徽因在东北大学创办中国第一个建筑学系");                         
+                                //var xsImgTexts = new Array("","","","","","","","","","","","","","","","","","","","","","","");
+                                var xsImgSize = new Array(focus_width, focus_height);
+                                
+                        
+  </script> 
+<script language="javascript" type="text/javascript" src="images/slide.js">
+  </script></div></div>
+  <div id="content">
+    <div id="col1">
+      <div class="widget">
+        <div>
+          <div class="mediaimg">
+            <img src="images/media.jpg" alt="媒体东大" />
+          </div>
+          <span class="mediamore">
+            <a href="http://neunews.neu.edu.cn/campus/part/MTDD.html" target="_blank">更多...</a>
+          </span>
+        </div>
+        <div class="mediaifr">
+          <iframe src="index_media.htm" width="260" height="125" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+      <div class="widget other">
+        <ul>
+          <li>
+            <a href="http://www.neuzs.com" target="_blank">　　[高考后自主招生、6月13日校园开放日]</a>
+          </li>
+          <li>　
+          <a href="http://neunews.neu.edu.cn/campus/news/2012-11/29-1136483648.html" target="_blank">[人才招聘信息]</a>　
+          <a href="http://202.118.27.233" target="_blank">[2014年非专任教师招聘]</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="col3">
+      <div class="widget imgnews">
+        <div class="imgnews2">
+          <img src="images/imgnews.jpg" alt="图文导读" />
+        </div>
+        <div class="image">
+          <iframe src="index_image_news.htm" width="230" height="225" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+      <div class="widget topics">
+        <div class="topicsimg">
+          <img src="images/topics.jpg" alt="专题" />
+        </div>
+        <div class="content">
+<script src="images/topicsindex.js" type="text/javascript">
+          </script>
+        </div>
+      </div>
+    </div>
+    <div id="col2">
+      <div class="widget">
+        <div>
+          <div class="newsimg">
+            <img src="images/news.jpg" alt="东大新闻" />
+          </div>
+          <span class="newsmore">
+            <a href="http://neunews.neu.edu.cn/campus/part/DDYW.html" target="_blank">更多...</a>
+          </span>
+        </div>
+        <div class="newsifr">
+          <iframe src="index_news.htm" width="420" height="170" frameborder="0" scrolling="no"></iframe>
+        </div>
+        <div class="footer">
+          <a href="http://neunews.neu.edu.cn/" target="_blank">
+            <img src="images/more.jpg" alt="进入东大新闻网..." border="0" />
+          </a>
+        </div>
+      </div>
+      <div class="widget">
+        <div>
+          <div class="noticeimg">
+            <img src="images/notice.jpg" alt="通知公告" />
+          </div>
+          <span class="noticemore">
+            <a href="http://neunews.neu.edu.cn/campus/part/BWJX.html" target="_blank">更多...</a>
+          </span>
+        </div>
+        <div class="noticeifr">
+          <iframe src="index_notice.htm" width="420" height="78" frameborder="0" scrolling="no"></iframe>
+        </div>
+      </div>
+    </div>
+    <div id="col4">
+<script src="images/bottom.js" type="text/javascript">
+      </script>
+    </div>
+  </div>
+  <div id="footer">
+    <iframe src="index_footer.htm" width="960" height="65" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
+<div id="ipv6_enabled_www_test_logo"></div>
+<script language="JavaScript" type="text/javascript">
+var Ipv6_Js_Server = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + Ipv6_Js_Server + "www.ipv6forum.com/ipv6_enabled/sa/SA1.php?id=544' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.neu.cn/statics//";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+
+</script>
+<noscript>
+  <p>
+    <img src="http://www.neu.cn/statics/piwik.php?idsite=1" style="border:0" alt="" />
+  </p>
+</noscript>
+
